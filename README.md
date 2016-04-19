@@ -1,13 +1,7 @@
-##Checking read quality in R"
-###Olga Kamneva"
----
+### Checking read quality using ShortRead R package. 
 
-## Dependencies
-```{r}
-library(ShortRead)
-```
-## Data
-The data for this project are from David et al. 2014. Genome Biol. paper.
+### Data
+The data for this project are from David *et al.* 2014. Genome Biol. paper.
 Downloaded from NCBI using fastq-dump from sratoolkit. BioProject PRJEB6518
 
 ```{r}
